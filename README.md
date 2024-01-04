@@ -1,0 +1,1 @@
+Using the program requires having ADB installed. To use, connect your device to your computer, open to the app you wish to log into, open the main.py in cmd, and follow the instructions. Coordinates may require editing based on application and device.
